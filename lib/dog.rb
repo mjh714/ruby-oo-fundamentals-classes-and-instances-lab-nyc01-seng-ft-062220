@@ -1,2 +1,2 @@
-dog.class
-fido = dog.
+class dog 
+end
