@@ -1,0 +1,2 @@
+dog.class
+fido = dog.
